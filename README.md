@@ -16,12 +16,16 @@ tp_datamining/activate
 3. Install requirements
   - Mac
 ```
-source tp_datamining/bin/activate 
+source tp_datamining/bin/activate
+pip install -r requirements.txt
 ```
   - Windows 
 ```
 .\tp_datamining\Scripts\activate
+pip install -r requirements.txt
 ```
+
+
 
 4. Configure notebook kernel
 ```
